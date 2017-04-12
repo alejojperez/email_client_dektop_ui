@@ -56,8 +56,8 @@
 
         <dependency>
             <groupId>com.github.alejojperez</groupId>
-            <artifactId>email-client-data</artifactId>
-            <version>0.0.1</version>
+            <artifactId>email_client_data</artifactId>
+            <version>0.0.2</version>
         </dependency>
     </dependencies>
 
