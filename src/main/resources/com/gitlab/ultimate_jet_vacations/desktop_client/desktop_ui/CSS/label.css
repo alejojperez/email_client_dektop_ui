@@ -1,0 +1,26 @@
+.label-css {
+    -fx-padding: .2em .6em .3em;
+    -fx-font-size: 75%;
+    -fx-font-weight: bold;
+    -fx-text-fill: #fff;
+    -fx-text-alignment: center;
+    -fx-border-radius: .25em;
+}
+.label-danger {
+    -fx-background-color: #ed5565;
+}
+.label-default {
+    -fx-background-color: #777;
+}
+.label-info {
+    -fx-background-color: #23c6c8;
+}
+.label-primary {
+    -fx-background-color: #1c84c6;
+}
+.label-success {
+    -fx-background-color: #1ab394;
+}
+.label-warning {
+    -fx-background-color: #f8ac59;
+}

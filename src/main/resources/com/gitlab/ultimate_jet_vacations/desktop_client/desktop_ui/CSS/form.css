@@ -1,0 +1,24 @@
+.form-control {
+    -fx-height: 34px;
+    -fx-padding: 6px 12px;
+    -fx-font-size: 14px;
+    -fx-text-fill: #555;
+    -fx-background-color: #fff;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 3px;
+}
+.form-control:focused {
+    -fx-border-color: #66afe9;
+    -fx-effect:
+            innershadow(three-pass-box, rgba(0, 0, 0, .075), 1, 0, 0, 1)
+            innershadow(three-pass-box, rgba(102, 175, 233, .6), 8, 0, 0, 0);
+}
+.form-control-shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, .125), 10, .3, 0, 3);
+}
+.form-control-error {
+    -fx-padding: 2px 5px;
+    -fx-text-fill: #fff;
+    -fx-font-size: 10px;
+    -fx-background-color: #db524b;
+}

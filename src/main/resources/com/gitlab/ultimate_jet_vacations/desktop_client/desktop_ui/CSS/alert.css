@@ -1,0 +1,20 @@
+.alert {
+    -fx-padding: 15px !important;
+    -fx-border-radius: 4px !important;
+}
+.alert-danger {
+    -fx-text-fill: #ed5565 !important;
+    -fx-background-color: #f2dede;
+}
+.alert-info {
+    -fx-text-fill: #23c6c8 !important;
+    -fx-background-color: #d9edf7;
+}
+.alert-success {
+    -fx-text-fill: #1ab394 !important;
+    -fx-background-color: #dff0d8;
+}
+.alert-warning {
+    -fx-text-fill: #f8ac59 !important;
+    -fx-background-color: #fcf8e3;
+}
