@@ -1,4 +1,4 @@
-package com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.view_models;
+package com.github.alejojperez.email_client_desktop_ui.view_models;
 
 import de.saxsys.mvvmfx.ViewModel;
 

@@ -1,8 +1,7 @@
-package com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui;
+package com.github.alejojperez.email_client_desktop_ui;
 
-import com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.core.contracts.IPresenter;
-import com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.view_models.EmailsViewModel;
-import com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.views.EmailsView;
+import com.github.alejojperez.email_client_desktop_ui.core.contracts.IPresenter;
+import com.github.alejojperez.email_client_desktop_ui.views.EmailsView;
 import de.saxsys.mvvmfx.FluentViewLoader;
 import de.saxsys.mvvmfx.ViewTuple;
 import javafx.scene.Parent;

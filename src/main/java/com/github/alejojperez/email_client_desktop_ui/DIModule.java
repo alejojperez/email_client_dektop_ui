@@ -1,6 +1,6 @@
-package com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui;
+package com.github.alejojperez.email_client_desktop_ui;
 
-import com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.core.contracts.IPresenter;
+import com.github.alejojperez.email_client_desktop_ui.core.contracts.IPresenter;
 import com.google.inject.AbstractModule;
 
 public class DIModule extends AbstractModule

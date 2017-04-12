@@ -1,6 +1,6 @@
-package com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.views;
+package com.github.alejojperez.email_client_desktop_ui.views;
 
-import com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.view_models.EmailsViewModel;
+import com.github.alejojperez.email_client_desktop_ui.view_models.EmailsViewModel;
 import de.saxsys.mvvmfx.FxmlView;
 import de.saxsys.mvvmfx.InjectViewModel;
 import javafx.fxml.Initializable;

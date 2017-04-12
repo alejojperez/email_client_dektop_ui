@@ -10,7 +10,7 @@
 
 <!--<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>-->
 
-<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gitlab.ultimate_jet_vacations.desktop_client.desktop_ui.views.EmailsView">
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.github.alejojperez.email_client_desktop_ui.views.EmailsView">
    <children>
       <AnchorPane maxHeight="80.0" minHeight="80.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #e7e7e7;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
