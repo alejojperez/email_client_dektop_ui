@@ -20,7 +20,7 @@
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" name="Maven: de.jensd:fontawesomefx:8.9" level="project" />
-    <orderEntry type="library" name="Maven: com.github.alejojperez:email_client_data:0.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.alejojperez:email_client_data:-0.0.5-g245b836-1" level="project" />
     <orderEntry type="library" name="Maven: com.google.api-client:google-api-client:1.22.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.oauth-client:google-oauth-client:1.22.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.http-client:google-http-client:1.22.0" level="project" />
@@ -38,7 +38,6 @@
     <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
     <orderEntry type="library" name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
     <orderEntry type="library" name="Maven: com.google.apis:google-api-services-gmail:v1-rev63-1.22.0" level="project" />
-    <orderEntry type="library" name="Maven: com.google.apis:google-api-services-plus:v1-rev519-1.22.0" level="project" />
     <orderEntry type="library" name="Maven: org.javalite:activejdbc:1.4.13" level="project" />
     <orderEntry type="library" name="Maven: org.javalite:javalite-common:1.4.13" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" level="project" />

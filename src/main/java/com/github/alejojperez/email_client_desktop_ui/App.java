@@ -1,6 +1,7 @@
 package com.github.alejojperez.email_client_desktop_ui;
 
 import com.github.alejojperez.email_client_desktop_ui.core.contracts.IPresenter;
+import com.github.alejojperez.email_client_desktop_ui.presenters.EmailsViewPresenter;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import de.saxsys.mvvmfx.guice.MvvmfxGuiceApplication;
@@ -43,7 +44,7 @@ public class App extends MvvmfxGuiceApplication
         App.setGlobalStage(stage);
 
         App.setCurrentDIModule( Guice.createInjector(new DIModule()) );
-        App.getCurrentDIModule().getInstance(IPresenter.class).show();
+        App.getCurrentDIModule().getInstance(EmailsViewPresenter.class).show();
     }
 }
 

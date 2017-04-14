@@ -57,7 +57,7 @@
         <dependency>
             <groupId>com.github.alejojperez</groupId>
             <artifactId>email_client_data</artifactId>
-            <version>0.0.2</version>
+            <version>-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
@@ -80,6 +80,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
